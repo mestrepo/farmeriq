@@ -1,4 +1,4 @@
-baseurl = "https://mestrepo.github.io/" # Controls base URL
+baseurl = "https://farmeriq.github.io/" # Controls base URL
 languageCode = "en-US" # Controls html lang attribute
 title = "Farmer IQ" # Homepage title and page title suffix
 paginate = 5 # Number of posts to show before paginating
@@ -8,6 +8,7 @@ enableRobotsTXT = true # Suggested, it generates a robots.txt
 googleAnalytics = "" # Optional, add tracking Id for analytics
 disqusShortname = "" # Optional, add Disqus shortname for comments
 SectionPagesMenu = "main" # Enable menu system for lazy bloggers
+#publishDir = "farmeriq.github.io"
 
 [params]
   theme_variant = "cerulean" # possible value for the theme_variant `cerulean,cosmo,cyborg,darkly,flatly,journal,litera,lumen,lux,materia,minty,pulse,sandstone,simplex,slate,solar,spacelab,superhero,united,yeti`
